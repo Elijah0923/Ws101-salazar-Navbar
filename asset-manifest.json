@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-salazar-navbar/static/css/main.80e41e89.css",
+    "main.js": "/ws101-salazar-navbar/static/js/main.d94c8791.js",
+    "index.html": "/ws101-salazar-navbar/index.html",
+    "main.80e41e89.css.map": "/ws101-salazar-navbar/static/css/main.80e41e89.css.map",
+    "main.d94c8791.js.map": "/ws101-salazar-navbar/static/js/main.d94c8791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e41e89.css",
+    "static/js/main.d94c8791.js"
+  ]
+}
